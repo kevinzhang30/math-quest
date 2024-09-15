@@ -38,7 +38,3 @@
 - Implement multiplayer features for battling friends.
 - Additional mini-games for more credit earning opportunities.
 
----
-
-Feel free to customize this template further based on any additional details or changes you’d like to make.
-
