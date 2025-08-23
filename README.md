@@ -33,8 +33,4 @@
 - **Mouse**: Click to navigate the UI and interact with items, characters, and game elements.
 - **Keyboard**: Use the keyboard for text input in designated textboxes.
 
-## Future Enhancements
-- Add more enemy types and advanced features.
-- Implement multiplayer features for battling friends.
-- Additional mini-games for more credit earning opportunities.
 
